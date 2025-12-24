@@ -7,7 +7,7 @@ Solution :
 
 L'utilisation de l'IA :
   - il m'a beaucoup aidé à comprendre la logique, je l'utilise surtout pour ces explication et exemple
-  - mais lorsque je suis bloque, je l'utilise pour débloquer ma progression et je comprend mon code et le tien pour mieux comprendre
+  - mais lorsque je suis bloque, je l'utilise pour débloquer ma progression et je compare mon code et le tien pour mieux comprendre
 
 Limites :
   - même s’il explique bien, il faut quand même avoir des bases, car l’IA propose parfois des solutions beaucoup trop complexes pour des problèmes simples.
