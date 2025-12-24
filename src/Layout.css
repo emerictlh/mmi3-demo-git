@@ -1,0 +1,10 @@
+nav {
+  padding-right:200px ;
+  padding-left:200px ;
+  display: flex;
+}
+
+button {
+  margin-right: 10px;
+  margin-left: 10px;
+}
